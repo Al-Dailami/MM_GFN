@@ -1,1 +1,1 @@
-Copy the preprocesssed MIMIC-III data here.
+Copy the preprocesssed MIMIC-III data files here.
